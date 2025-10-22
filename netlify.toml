@@ -3,4 +3,4 @@
   publish = ".next"
   # Netlify's Next.js runtime plugin handles routing & server functions
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-nextjs@latest"
