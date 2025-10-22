@@ -3,4 +3,5 @@
   publish = "out"
   # Netlify's Next.js runtime plugin handles routing & server functions
 [[plugins]]
-  package = "@netlify/plugin-nextjs@latest"
+  package = "@netlify/plugin-nextjs"
+  pinned_version = "5.14.3"
